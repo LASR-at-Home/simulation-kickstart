@@ -72,10 +72,13 @@ You should now see `Gazebo` as before as well as `RViz`, with the loaded map:
 You're now ready to begin developing and run your own nodes!
 
 ## Custom Worlds
-Within this repository, you will find a ROS package called `custom_worlds`, which provides some additional worlds which are more interesting and complex than the example provided above. You may wish to use these worlds in your projects.
+Within this repository, you will find a ROS package called `custom_worlds`, which provides some additional worlds which are more interesting and complex than the example provided above. You may wish to use these worlds in your projects, to do so, simply copy this package into your workspace and build it.
 
 ## Frequently Asked Questions
 Commonly asked questions and their respective answers will be presented here, as and when they arrive.
+
+## LASR Stack
+If you are intending to use the LASR stack for your project, and have permission to do so, please get in touch with me so I can provide further instructions on how to do this.
 
 ## Contact
 If you are facing difficulties with setting up the container and/or simulating TIAGo, feel free to contact me via email at jared.swift@kcl.ac.uk. I will try my best to help you resolve your issues.
