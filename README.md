@@ -2,7 +2,7 @@
 Similar to the ITR module, which you likely would've taken, we use a container for simulating and interfacing with our robot, TIAGo.
 ### Acquiring the Container
 #### Lab Machines
-The container is already provided on the lab machines and can be found at `/itr/tiago_noetic_opensource.sif`. Additionally, `apptainer/singularity` is already installed.
+The container is already provided on the lab machines and can be found at `/store/netsoft/itr-cont/tiago/tiago_noetic_opensource.sif`. Additionally, `apptainer/singularity` is already installed.
 #### Your Own Machine
 If you are using your own machine then you must execute the following steps to acquire and access the container.
 1. Install [Apptainer](https://apptainer.org/), instructions are available [here](https://apptainer.org/docs/admin/main/installation.html).
