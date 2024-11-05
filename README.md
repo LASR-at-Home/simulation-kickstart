@@ -78,7 +78,7 @@ Within this repository, you will find a ROS package called `custom_worlds`, whic
 Commonly asked questions and their respective answers will be presented here, as and when they arrive.
 
 ## LASR Stack
-If you are intending to use the LASR stack for your project, and have permission to do so, please get in touch with me so I can provide further instructions on how to do this.
+If you are intending to use the LASR stack for your project, and have permission to do so, please get in touch so I can provide further instructions on how to do this.
 
 ## Contact
-If you are facing difficulties with setting up the container and/or simulating TIAGo, feel free to contact me via email at jared.swift@kcl.ac.uk. I will try my best to help you resolve your issues.
+If you are facing difficulties with setting up the container and/or simulating TIAGo, feel free to open an issue on this repository and I will do my best to help you.
