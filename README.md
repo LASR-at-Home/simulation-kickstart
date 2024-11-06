@@ -77,6 +77,10 @@ Within this repository, you will find a ROS package called `custom_worlds`, whic
 ## Frequently Asked Questions
 Commonly asked questions and their respective answers will be presented here, as and when they arrive.
 
+Q1: I got this weird error with a wall of red and something about the ROS path.
+
+A1: Make sure you pass `public_sim:=true`.
+
 ## LASR Stack
 If you are intending to use the LASR stack for your project, and have permission to do so, please get in touch so I can provide further instructions on how to do this.
 
