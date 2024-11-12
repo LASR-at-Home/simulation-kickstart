@@ -13,12 +13,9 @@ If you are using your own machine then you must execute the following steps to a
 ### Using the Container
 You can enter the container by simply using `apptainer run`, for example:
 ```
-apptainer run tiago_noetic_opensource.sif
+apptainer run tiago_noetic_opensource.sif local terminator
 ```
-There are various configurations for running the container. You may find the `terminator` configuration useful for development and testing, this can be used as such:
-```
-apptainer run tiago_noetic_opensource.sif terminator
-```
+This will run the container, automatically setting the `ROS_IP` and `ROS_MASTER_URI` for the master to run locally, and launch a terminator instance to ease development.
 Additional details can be found by executing:
 ```
 apptainer run-help tiago_noetic_opensource.sif
